@@ -8,7 +8,7 @@
            remote="origin" />
 
   <project path="HelloWorld"
-           name="https://github.com/m5151128/HelloWorld"/>
+           name="HelloWorld"/>
   <project path="repo-test"
-           name="https://github.com/m5151128/repo-test"/>
+           name="repo-test"/>
 </manifest>
