@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <remote  name="origin"
+           fetch="https://github.com/m5151128/"/> 
+
+  <default revision="master"
+           remote="origin" />
+
+  <project path="HelloWorld"
+           name="https://github.com/m5151128/HelloWorld"/>
+  <project path="repo-test"
+           name="https://github.com/m5151128/repo-test"/>
+</manifest>
