@@ -7,8 +7,14 @@
   <default revision="master"
            remote="origin" />
 
+  <project path="repo"
+           name="repo"/>
   <project path="HelloWorld"
            name="HelloWorld"/>
   <project path="repo-test"
            name="repo-test"/>
+  <project path="KinectBase"
+           name="KinectBase"/>
+  <project path="KinectCamera"
+           name="KinectCamera"/>
 </manifest>
